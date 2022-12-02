@@ -1,3 +1,3 @@
-# Noise-Pollution
+# Urban Sensing - Noise Pollution
 
-Urban Sensing - Noise Pollution
+Measuring noise levels in Prishtina.
