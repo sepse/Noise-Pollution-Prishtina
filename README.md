@@ -1,4 +1,4 @@
-# Urban Sensing - Noise Pollution :closed_book:
+# Urban Sensing - Noise Pollution :closed_book: :loud_sound:
 
 Measuring noise levels in Prishtina.
 
