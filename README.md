@@ -1,6 +1,19 @@
-# Urban Sensing - Noise Pollution
+# Urban Sensing - Noise Pollution :closed_book:
 
 Measuring noise levels in Prishtina.
+
+## Introduction
+
+## Objective
+
+## Data
+### Noise Pollution Data
+
+## Methodology 
+
+**The notebooks:** [Balkan Air Pollution](https://github.com/sepse/COVAir-Balkans/blob/main/balkan_pollution.ipynb)
+
+## First Results
 
 Sensor Channel - [Source](https://thingspeak.com/channels/1922620)
 
