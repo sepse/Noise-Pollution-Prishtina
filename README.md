@@ -16,7 +16,7 @@ Moreover, understanding this phenomenon leads to the development of effective no
 
 Recently in Prishtina, a 'Citizen Science' research project was conducted whereby technology enthusiasts built microphone sensors that can measure sound intensity and save the data to the cloud, as a means of better understanding this phenomenon. By having access to raw data and open to the public, anyone can get an accurate overview of sound levels in the center of the city and potentially be able to understand patters of noise.
 
-The data was saved on a public channel of [Thingspeak](www.thingspeak.com), a platform for storing and displaying various sensor data.
+The data was saved on a public channel of [Thingspeak](www.thingspeak.com), a platform for storing and displaying various sensor data. 
 
 ![noisePRI](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisePRI.png)
 
@@ -26,8 +26,11 @@ The microphone sensor was placed in an urban residential and commercial location
 
 ![noisemap](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisemap.png)
 
+
 ## Data
 ### Noise Pollution Data
+
+The data was downloaded from the platform, and contains two columns, Time and Decibels, for the period of December 2022 - April 2023.
 
 Dataset can be accessed via this link [Complete Datasets](https://drive.google.com/drive/folders/1jQUcwHCfegaoPiOR3yDSgqbY3zlYsIAx?usp=sharing)
 
