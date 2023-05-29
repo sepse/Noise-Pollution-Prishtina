@@ -71,7 +71,7 @@ The visuals do tell a clear story as to what is the current state of noise pollu
 
 ![stats](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/stats.png)
 
-Looking at the mean average for this timepriod we can see that it exceeds the recommended levels, reffering to the WHO guidelines for residential areas, though not excessively so. What is of concern as well is the outlier cases where there are dramatic increase in noise. Nevertheless this research ought to raise questions about the particular state of this urban environment, and increase institutional awareness about potential causes/solutions.
+Looking at the mean average for this timepriod we can see that it exceeds the recommended levels, reffering to the abovementioned WHO guidelines for residential areas, though not excessively so. What is of concern as well is the outlier cases where there are dramatic increase in noise. This research ought to raise questions about the particular state of this urban environment, and increase institutional awareness about potential causes/solutions.
 
 Potential causes could be:
 
@@ -84,7 +84,6 @@ Potential causes could be:
 
 In summary, urban noise pollution can arise from a variety of sources, and it is important to identify the main sources of noise pollution in specific urban settings to effectively reduce its impact on human health and well-being.
 
-
-
+***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.
 
 
