@@ -19,11 +19,11 @@ The data was saved on a public channel of [Thingspeak](www.thingspeak.com), a pl
 
 [Sensor Channel](https://thingspeak.com/channels/1922620)
 
-The microphone sensor was placed in an urban residential and commercial location in the heart of Prishtina.
+The microphone sensor was placed in an urban residential and commercial location in the heart of Prishtina, at the intersection of "Bill Clinton" and "Bob Dole" streets.
 
 ![noisemap](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisemap.png)
 
-We will download the data from the platform and take a closer look using data science methodology, to see if we can get a better understanding.
+After downloading the data from the platform we will take a closer look using data science methodology, to see if we can get a better understanding.
 
 ### What is Noise?
 But before we begin processing any data, we should understand what exactly is noise.
@@ -43,12 +43,16 @@ Exposure to prolonged high noise levels can cause a wide range of health problem
 ## Data
 ### Noise Pollution Data
 
-The data was downloaded from the platform, and contains two columns, Time and Decibels, for the period of December 2022 - April 2023.
+The data downloaded from the platform contains two columns, Time and Decibels, for the period of December 2022 - April 2023.
 
 Dataset can be accessed via this link [Complete Datasets](https://drive.google.com/drive/folders/1jQUcwHCfegaoPiOR3yDSgqbY3zlYsIAx?usp=sharing)
 
 
 ## Methodology 
+
+All data processing, exploration and visualization will be conducted using Python notebooks hosted in Google Colab (a free service available to all Google users). The material is available as a tool to further explore the topics and learn about noise pollution in particular, and data science in general. Notebooks will open in Colab, where you can see the research methodology performed on the dataset; notebooks also allow you to tweak them to further explore the data on you own.
+
+The data science methodology involves the following:
 
 - Data loading: Load the dataset into the Python notebook using a library like Pandas. The dataset should contain noise data in decibels, including time and location information.
 - Data cleaning: Check for missing or duplicate values in the dataset and remove or impute them as necessary. Also, check for outliers in the data and remove them if they are not meaningful.
