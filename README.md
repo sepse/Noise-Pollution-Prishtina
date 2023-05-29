@@ -59,6 +59,10 @@ Dataset can be accessed via this link [Complete Datasets](https://drive.google.c
 
 ## First Results
 
+![noiselevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noise_levels.png)
+
+![stats](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/stats.png)
+
 Urban noise pollution can have various causes, including:
 
 - Transportation: The most common source of urban noise pollution is transportation, including cars, buses, trains, airplanes, and construction equipment. Traffic noise can be especially problematic in areas with high volumes of vehicles.
@@ -74,6 +78,3 @@ In summary, urban noise pollution can arise from a variety of sources, and it is
 
 
 
-
-
-![noiselevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noise_levels.png)
