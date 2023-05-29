@@ -67,11 +67,13 @@ By plotting the datapoints visually we can see a general pattern that occurs thr
 
 ![noiselevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noise_levels.png)
 
-The visuals do tell a clear story as to what is the current state of noise pollution in the city, and is without a doubt the most intuitive way of conveying this kind of information. Furthermore, by performing basic statistical analysis we can also see the likelihood of certain noise levels that occur, as a way of understanging pattern of a phenomenon.
+The visuals do tell a clear story as to what is the current state of noise pollution in the city, and is without a doubt the most intuitive way of conveying this kind of information. Furthermore, by performing basic statistical analysis we can also see the likelihood of certain noise levels that occur, as a way of understanging pattern of a phenomenon. 
 
 ![stats](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/stats.png)
 
-Urban noise pollution can have various causes, including:
+Looking at the mean average for this timepriod we can see that it exceeds the recommended levels, reffering to the WHO guidelines for residential areas, though not excessively so. What is of concern as well is the outlier cases where there are dramatic increase in noise. Nevertheless this research ought to raise questions about the particular state of this urban environment, and increase institutional awareness about potential causes/solutions.
+
+Potential causes could be:
 
 - Transportation: The most common source of urban noise pollution is transportation, including cars, buses, trains, airplanes, and construction equipment. Traffic noise can be especially problematic in areas with high volumes of vehicles.
 - Industrial activities: Industrial activities, such as manufacturing and construction, can generate high levels of noise pollution. Machinery, generators, and compressors are some of the sources of noise in these settings.
