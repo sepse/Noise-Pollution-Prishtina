@@ -63,6 +63,8 @@ By plotting the datapoints visually we can see a general pattern that occurs thr
 
 ![noiselevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noise_levels.png)
 
+The visuals do tell a clear story as to what is the current state of noise pollution in the city, and is without a doubt the most intuitive way of conveying this kind of information. Furthermore, by performing basic statistical analysis we can also see the likelihood of certain noise levels that occur, as a way of understanging pattern of a phenomenon.
+
 ![stats](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/stats.png)
 
 Urban noise pollution can have various causes, including:
