@@ -3,9 +3,9 @@
 Measuring noise levels in Prishtina.
 
 ## Introduction
-Analyzing urban noise pollution data is an interesting data science project because noise pollution is a significant problem in urban areas worldwide. High levels of noise pollution can cause a variety of health issues, such as hearing damage, sleep disturbance, cardiovascular problems, and stress.
+Analyzing urban noise pollution data is an interesting data science project because it is a significant issue in urban areas worldwide. High levels of noise pollution can cause a variety of health issues, such as hearing damage, sleep disturbance, cardiovascular problems, and stress.
 
-Data analysis of noise pollution levels can provide valuable insights into the sources of noise pollution and the impact of noise on people's health and quality of life. It can help identify areas where noise levels are highest and where measures need to be taken to reduce noise pollution.
+Data analysis of noise levels can provide valuable insights into the sources of noise and it's impact on people's health and quality of life. It can help identify areas where noise levels are highest and where measures need to be taken to reduce noise pollution.
 
 Moreover, understanding this phenomenon leads to the development of effective noise reduction strategies, such as urban planning and policy changes. This, in turn, can lead to a reduction in noise levels, improved public health and well-being, and better quality of life in urban areas.
 
