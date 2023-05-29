@@ -22,7 +22,7 @@ Sensor Channel - [Source](https://thingspeak.com/channels/1922620)
 
 ![noisePRI](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisePRI.png)
 
-![noisemap|50](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisemap.png)
+![noisemap](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisemap.png =250x)
 
 ![noiseLevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/NOISE-LEVEL-DECIBEL-CHART.png)
 -Chart [Source](https://www.electronicshub.org/noise-level-decibels-chart/)
