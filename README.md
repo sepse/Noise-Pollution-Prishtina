@@ -50,14 +50,16 @@ Dataset can be accessed via this link [Complete Datasets](https://drive.google.c
 
 ## Methodology 
 
-- 1.Data loading: Load the dataset into the Python notebook using a library like Pandas. The dataset should contain noise data in decibels, including time and location information.
-- 2.Data cleaning: Check for missing or duplicate values in the dataset and remove or impute them as necessary. Also, check for outliers in the data and remove them if they are not meaningful.
-- 3.Exploratory data analysis (EDA): Explore the dataset using visualization techniques to understand the patterns and relationships in the data. Plotting histograms, line plots, and scatterplots can help you identify patterns, correlations, and distributions in the data. Use visualizations to understand the temporal patterns in the data, identify areas of high noise, and explore the relationships between noise levels and other variables.
-- 4.Visualization: Use visualizations to present the results of the model, create interactive maps showing areas of high noise levels, or provide visualizations that help users understand the impact of noise on different environments.
+- Data loading: Load the dataset into the Python notebook using a library like Pandas. The dataset should contain noise data in decibels, including time and location information.
+- Data cleaning: Check for missing or duplicate values in the dataset and remove or impute them as necessary. Also, check for outliers in the data and remove them if they are not meaningful.
+- Exploratory data analysis (EDA): Explore the dataset using visualization techniques to understand the patterns and relationships in the data. Plotting histograms, line plots, and scatterplots can help you identify patterns, correlations, and distributions in the data. Use visualizations to understand the temporal patterns in the data, identify areas of high noise, and explore the relationships between noise levels and other variables.
+- Visualization: Use visualizations to present the results of the model, create interactive maps showing areas of high noise levels, or provide visualizations that help users understand the impact of noise on different environments.
 
 **The notebooks:** [Balkan Air Pollution](https://github.com/sepse/COVAir-Balkans/blob/main/balkan_pollution.ipynb)
 
 ## First Results
+
+By plotting the datapoints visually we can see a general pattern that occurs throughout the day/night cycle, which is not surprising. What is interesting though is seeing where the majority of the datapoints rests, namely where is the average baseline.
 
 ![noiselevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noise_levels.png)
 
