@@ -20,7 +20,7 @@ The data was saved on a public channel of [Thingspeak](www.thingspeak.com), a pl
 
 ![noisePRI](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisePRI.png)
 
-Sensor Channel - [Source](https://thingspeak.com/channels/1922620)
+[Sensor Channel](https://thingspeak.com/channels/1922620)
 
 The microphone sensor was placed in an urban residential and commercial location in the heart of Prishtina.
 
