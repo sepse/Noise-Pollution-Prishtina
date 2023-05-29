@@ -22,6 +22,10 @@ The data was saved on a public channel of [Thingspeak](www.thingspeak.com), a pl
 
 Sensor Channel - [Source](https://thingspeak.com/channels/1922620)
 
+The microphone sensor was placed in an urban residential and commercial location in the heart of Prishtina.
+
+![noisemap](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisemap.png)
+
 ## Data
 ### Noise Pollution Data
 
@@ -37,7 +41,7 @@ Dataset can be accessed via this link [Complete Datasets](https://drive.google.c
 
 
 
-![noisemap](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisemap.png)
+
 
 
 
