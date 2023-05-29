@@ -59,7 +59,7 @@ The data science methodology involves the following:
 - Exploratory data analysis (EDA): Explore the dataset using visualization techniques to understand the patterns and relationships in the data. Plotting histograms, line plots, and scatterplots can help you identify patterns, correlations, and distributions in the data. Use visualizations to understand the temporal patterns in the data, identify areas of high noise, and explore the relationships between noise levels and other variables.
 - Visualization: Use visualizations to present the results of the model, create interactive maps showing areas of high noise levels, or provide visualizations that help users understand the impact of noise on different environments.
 
-**The notebooks:** [Noise Pollution Prishtinaalkan Air Pollution](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Noise_Pollution_HS.ipynb)
+**The notebooks:** [Noise Pollution Prishtina](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Noise_Pollution_HS.ipynb)
 
 ## First Results
 
