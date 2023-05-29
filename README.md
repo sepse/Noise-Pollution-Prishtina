@@ -9,9 +9,6 @@ Data analysis of noise pollution levels can provide valuable insights into the s
 
 Moreover, understanding this phenomenon leads to the development of effective noise reduction strategies, such as urban planning and policy changes. This, in turn, can lead to a reduction in noise levels, improved public health and well-being, and better quality of life in urban areas.
 
-![noiseLevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/NOISE-LEVEL-DECIBEL-CHART.png)
--Chart [Source](https://www.electronicshub.org/noise-level-decibels-chart/)
-
 ## Objective
 
 Recently in Prishtina, a 'Citizen Science' research project was conducted whereby technology enthusiasts built microphone sensors that can measure sound intensity and save the data to the cloud, as a means of better understanding this phenomenon. By having access to raw data and open to the public, anyone can get an accurate overview of sound levels in the center of the city and potentially be able to understand patters of noise.
@@ -36,6 +33,9 @@ The acceptable range of noise levels in decibels for urban environments depends 
 
 It is essential to note that these are only guidelines, and different countries and regions may have their own regulations and standards for noise levels in urban areas.
 Exposure to prolonged high noise levels can cause a wide range of health problems, including hearing loss, sleep disturbance, cardiovascular diseases, and stress. Therefore, it is crucial to monitor and control noise levels in urban areas to ensure public health and well-being. [WHO Source](https://www.who.int/europe/news-room/fact-sheets/item/noise)
+
+![noiseLevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/NOISE-LEVEL-DECIBEL-CHART.png)
+-Chart [Source](https://www.electronicshub.org/noise-level-decibels-chart/)
 
 ## Data
 ### Noise Pollution Data
