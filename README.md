@@ -26,6 +26,20 @@ The microphone sensor was placed in an urban residential and commercial location
 
 ![noisemap](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisemap.png)
 
+### What is Noise
+The acceptable range of noise levels in decibels for urban environments depends on the type of area and its intended use. The World Health Organization (WHO) has provided guidelines for community noise levels in urban areas:
+
+  In residential areas, the recommended outdoor noise levels during the daytime is 55 dB(A) and 40 dB(A) during the nighttime to protect the residents' health and well-being.
+
+  In sensitive areas such as hospitals, schools, and libraries, the recommended indoor noise levels are between 35-40 dB(A) during the daytime and 30 dB(A) during the nighttime.
+
+  In commercial areas such as shopping centers, the recommended noise levels during the daytime are between 60-65 dB(A) and 45 dB(A) during the nighttime.
+
+  In industrial areas, the recommended noise levels during the daytime are between 70-75 dB(A) and 60 dB(A) during the nighttime.
+
+  It is essential to note that these are only guidelines, and different countries and regions may have their own regulations and standards for noise levels in urban areas.
+
+Exposure to prolonged high noise levels can cause a wide range of health problems, including hearing loss, sleep disturbance, cardiovascular diseases, and stress. Therefore, it is crucial to monitor and control noise levels in urban areas to ensure public health and well-being. [WHO Source](https://www.who.int/europe/news-room/fact-sheets/item/noise)
 
 ## Data
 ### Noise Pollution Data
