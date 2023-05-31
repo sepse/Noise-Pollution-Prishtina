@@ -19,7 +19,7 @@ The data was saved on a public channel of [Thingspeak](www.thingspeak.com), a pl
 
 [Sensor Channel](https://thingspeak.com/channels/1922620)
 
-The microphone sensor was placed in an urban residential and commercial location in the heart of Prishtina, at the intersection of "Bill Clinton" and "Bob Dole" streets.
+The microphone sensor was placed in an urban residential and commercial location in the heart of Prishtina, at the intersection of "Bill Clinton" and "Robert Dole" streets.
 
 ![noisemap](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisemap.png)
 
