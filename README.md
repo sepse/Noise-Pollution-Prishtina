@@ -1,6 +1,6 @@
 # Urban Sensing - Noise Pollution :closed_book: :loud_sound:
 
-Measuring noise levels in Prishtina.
+How loud is my city - measuring noise levels in Prishtina.
 
 ## Introduction
 Analyzing urban noise pollution data is an interesting data science project because it is a significant issue in urban areas worldwide. High levels of noise pollution can cause a variety of health issues, such as hearing damage, sleep disturbance, cardiovascular problems, and stress.
