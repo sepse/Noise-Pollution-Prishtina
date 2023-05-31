@@ -26,7 +26,7 @@ The microphone sensor was placed in an urban residential and commercial location
 After downloading the data from the platform we will take a closer look using data science methodology, to see if we can get a better understanding.
 
 ### What is Noise?
-But before we begin processing any data, we should understand what exactly is noise.
+But before we begin processing any data, we should understand what exactly is considered noise.
 The acceptable range of noise levels in decibels for urban environments depends on the type of area and its intended use. The World Health Organization (WHO) has provided guidelines for community noise levels in urban areas:
 
 - In residential areas, the recommended outdoor noise levels during the daytime is 55 dB(A) and 40 dB(A) during the nighttime to protect the residents' health and well-being.
